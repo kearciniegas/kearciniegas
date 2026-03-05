@@ -1,7 +1,7 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kearciniegas&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=kearciniegas&color=blue"/>
 </p>
 
 # BIO
@@ -11,8 +11,6 @@ DevOps on [Emi Falck](https://www.grupoemi.com/).
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
 ☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack, 💻 DevOps.  
   
-![](https://komarev.com/ghpvc/?username=kearciniegas&color=blue)
-
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
