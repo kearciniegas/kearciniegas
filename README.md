@@ -8,7 +8,7 @@
 
 # BIO
 
-DevOps on [Nubiral](https://nubiral.com/).  
+DevOps on [Emi Falck](https://www.grupoemi.com/).  
 
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
 ☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack, 💻 DevOps.  
